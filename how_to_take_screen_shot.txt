@@ -1,0 +1,21 @@
+
+How to take a screen shot of Golly
+----------------------------------
+
+Start Golly:
+- click on a python program "???.py" that generates an image in Golly
+- it's up to you to write that python program
+
+Screen Shot: 
+- using Keyboard, press Windows logo key (four squares) + Shift + S
+- press the three keys in that order, holding all three keys down
+
+Save Photo:
+- now we're clicking the mouse, instead of pressing keys
+- click on Windows logo (four squares) at bottom of screen
+- click on Photos
+- your screen shot should be visible
+- double click on the desired image
+- click on three dots "..." at top of screen
+- click on "Save as"
+
